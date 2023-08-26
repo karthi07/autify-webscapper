@@ -1,0 +1,21 @@
+---
+www.google.com.html:
+  :site: https://www.google.com
+  :num_links: 27
+  :images: 1
+  :last_fetch: Sat Aug 26 2023 12:00 UTC
+autify.com.html:
+  :site: https://autify.com
+  :num_links: 87
+  :images: 122
+  :last_fetch: Sat Aug 26 2023 12:00 UTC
+www.ruby-lang.org.html:
+  :site: https://www.ruby-lang.org
+  :num_links: 1
+  :images: 0
+  :last_fetch: Sat Aug 26 2023 12:00 UTC
+rubyonrails.org.html:
+  :site: https://rubyonrails.org
+  :num_links: 43
+  :images: 18
+  :last_fetch: Sat Aug 26 2023 12:04 UTC
